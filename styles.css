@@ -1,0 +1,29 @@
+ body {
+    background-color: gray;
+    font-family:Georgia, 'Times New Roman', Times, serif
+ }
+
+ h1 {
+    text-align: center;
+    color:chartreuse;
+    
+ }
+ .about {
+    text-align: left;
+    color: blue;
+ }
+ 
+ .skills {
+    text-align: left;
+    color: blue;
+ }
+
+ .projects {
+    text-align: left;
+    color:blue;
+ }
+
+ .contact {
+    text-align: left;
+    color: blue;
+ }
