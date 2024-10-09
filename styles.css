@@ -35,3 +35,7 @@ padding: 20px 10px;
 background: rgb(11, 168, 103); 
 border-radius: 25%;
 }
+
+.project img {
+   width: 100%;
+}
